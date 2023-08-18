@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeevsidakSingh
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning OCamel, Firebase
+- 🌱 I’m currently learning TensorFlow, Pytorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
